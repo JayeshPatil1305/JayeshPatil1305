@@ -12,4 +12,4 @@
   </p>
 
 
-[coding_gif_link]: https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif
+[coding_gif_link]: https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif
